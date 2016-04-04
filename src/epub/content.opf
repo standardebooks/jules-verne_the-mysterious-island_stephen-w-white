@@ -35,7 +35,8 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/8993</dc:source>
-		<meta property="se:word-count">162849</meta>
+		<meta property="se:production-notes">A large amount of typos have been corrected.  The glossary has been omitted.</meta>
+		<meta property="se:word-count">162833</meta>
 		<meta property="se:reading-ease.flesch">70.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mysterious_Island</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_the-mysterious-island_stephen-w-white</meta>
