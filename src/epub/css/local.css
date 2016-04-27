@@ -10,6 +10,17 @@ b,
 	font-variant: small-caps;
 }
 
+p.signature{
+	text-align: right;
+	margin-top: 1em;
+}
+
+p.postscript{
+	margin-top: 1em;
+	font-style: italic;
+	text-indent: 0;
+}
+
 .inscription{
 	text-align: center;
 }
