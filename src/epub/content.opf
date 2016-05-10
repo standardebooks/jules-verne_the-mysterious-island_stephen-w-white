@@ -22,10 +22,10 @@
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
 		<dc:subject id="subject-3">Castaways -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Islands of the Pacific -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/8993</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/8993</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/8993</meta>
-		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/8993</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/8993</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/8993</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/8993</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/8993</meta>
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
@@ -34,7 +34,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/8993</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/8993</dc:source>
 		<meta property="se:production-notes">A large amount of typos have been corrected.  The glossary has been omitted.</meta>
 		<meta property="se:word-count">162771</meta>
 		<meta property="se:reading-ease.flesch">70.43</meta>
