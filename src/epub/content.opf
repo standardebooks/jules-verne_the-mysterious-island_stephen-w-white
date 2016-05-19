@@ -44,7 +44,7 @@
 		<meta property="file-as" refines="#author">Verne, Jules</meta>
 		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Stephen W. White</dc:contributor>
 		<meta property="file-as" refines="#translator">White, Stephen W.</meta>
@@ -58,7 +58,7 @@
 		<meta property="se:name.person.full-name" refines="#artist">Lev Feliksovich Lagorio</meta>
 		<meta property="alternate-script" refines="#artist" xml:lang="ru">Лев Феликсович Лагорио</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Lev_Lagorio</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2007127002.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2007127002</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Norman M. Wolcott</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wolcott, Norman M.</meta>
