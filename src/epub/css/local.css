@@ -24,6 +24,12 @@ p.postscript{
 
 .inscription{
 	text-align: center;
+	font-variant: small-caps;
+}
+
+.list p,
+.inscription p{
+	text-indent: 0;
 }
 
 section > header{
@@ -41,4 +47,9 @@ section > header{
 
 [epub|type~="bridgehead"] i{
 	font-style: normal;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
 }
