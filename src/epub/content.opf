@@ -27,7 +27,7 @@
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/8993</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/8993</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/8993</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
@@ -51,15 +51,13 @@
 		<meta property="file-as" refines="#translator">White, Stephen W.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Stephen William White</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Stephen_William_White</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">NACOAFLINK</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">Lev Lagorio</dc:contributor>
-		<meta property="file-as" refines="#artist">Lagorio, Lev</meta>
-		<meta property="se:name.person.full-name" refines="#artist">Lev Feliksovich Lagorio</meta>
-		<meta property="alternate-script" refines="#artist" xml:lang="ru">Лев Феликсович Лагорио</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Lev_Lagorio</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2007127002</meta>
+		<dc:contributor id="artist">Claude Monet</dc:contributor>
+		<meta property="file-as" refines="#artist">Monet, Claude</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Oscar-Claude Monet</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Claude_Monet</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79055527</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Norman M. Wolcott</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wolcott, Norman M.</meta>
