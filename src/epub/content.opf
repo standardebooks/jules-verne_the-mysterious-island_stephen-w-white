@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/the-mysterious-island/stephen-w-white</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2016-08-29T22:51:23Z</dc:date>
+		<meta property="dcterms:modified">2016-08-29T22:51:23Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -28,16 +28,17 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/8993</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/8993</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Five Americans, balloon-wrecked on a deserted island, must find a way to survive while solving the island’s strange mysteries.</dc:description>
+		<dc:description id="description">Five Americans, balloon-wrecked on a deserted island, must find a way to survive while revealing the island’s strange mysteries.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Mysterious Island&lt;/i&gt; tells the tale of five Americans who, in an attempt to escape the Civil War, pilot a hot-air balloon and find themselves crashed on a deserted island somewhere in the Pacific.  Verne had been greatly influenced by works like &lt;i&gt;Robinson Crusoe&lt;/i&gt; and &lt;i&gt;The Swiss Family Robinson&lt;/i&gt;, and that influence shines brightly in this novel of engineering ingenuity and adventure.  Verne imparts the escapees with such over-the-top cleverness and so many luckily-placed resources that modern readers might find the extent to which they tame the island comical.  Despite that, the island contains genuine mysteries for the adventurers to solve.&lt;/p&gt;
+			&lt;p&gt;The standard translation of &lt;i&gt;The Mysterious Island&lt;/i&gt; was produced in 1875, and is credited to W. H. G. Kingston. Despite its popularity, it’s widely criticized for abridiging and Bowlderizing important parts of the text.  The translation presented here, produced by Stephen W. White in 1876, is considered a much more accurate translation, despite it also abriding some portions.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8993</dc:source>
 		<meta property="se:production-notes">A large amount of typos have been corrected. The glossary has been omitted.</meta>
-		<meta property="se:word-count">162771</meta>
+		<meta property="se:word-count">162779</meta>
 		<meta property="se:reading-ease.flesch">70.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mysterious_Island</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_the-mysterious-island_stephen-w-white</meta>
