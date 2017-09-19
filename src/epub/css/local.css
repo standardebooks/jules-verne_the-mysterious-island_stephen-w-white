@@ -5,6 +5,10 @@ abbr.name{
 	white-space: nowrap;
 }
 
+abbr.compass{
+	white-space: nowrap;
+}
+
 b,
 .signature{
 	font-weight: normal;
