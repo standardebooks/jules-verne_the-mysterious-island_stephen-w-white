@@ -21,7 +21,7 @@ p.postscript{
 	font-variant: small-caps;
 }
 
-.list p,
+#chapter-24 blockquote p,
 .inscription p{
 	text-indent: 0;
 }
