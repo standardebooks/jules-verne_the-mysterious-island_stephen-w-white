@@ -10,7 +10,7 @@ p.signature{
 	margin-top: 1em;
 }
 
-p.postscript{
+p[epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	font-style: italic;
 	text-indent: 0;
