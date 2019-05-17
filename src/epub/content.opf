@@ -26,25 +26,27 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Mysterious Island</dc:title>
 		<meta property="file-as" refines="#title">Mysterious Island, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
 		<dc:subject id="subject-3">Castaways -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Islands of the Pacific -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/8993</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/8993</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/8993</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/8993</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85001072</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008100157</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Five Americans, balloon-wrecked on a deserted island, must find a way to survive while revealing the island’s strange mysteries.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Mysterious Island&lt;/i&gt; tells the tale of five Americans who, in an attempt to escape the Civil War, pilot a hot-air balloon and find themselves crashed on a deserted island somewhere in the Pacific. Verne had been greatly influenced by works like &lt;i&gt;Robinson Crusoe&lt;/i&gt; and &lt;i&gt;The Swiss Family Robinson&lt;/i&gt;, and that influence shines brightly in this novel of engineering ingenuity and adventure. Verne imparts the escapees with such over-the-top cleverness and so many luckily-placed resources that modern readers might find the extent to which they tame the island comical. Despite that, the island contains genuine mysteries for the adventurers to solve.&lt;/p&gt;
 			&lt;p&gt;The standard translation of &lt;i&gt;The Mysterious Island&lt;/i&gt; was produced in 1875, and is credited to W. H. G. Kingston. Despite its popularity, it’s widely criticized for abridiging and Bowlderizing important parts of the text. The translation presented here, produced by Stephen W. White in 1876, is considered a much more accurate translation, despite it also abridging some portions.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8993</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID3ebefc797e212</dc:source>
