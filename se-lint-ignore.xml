@@ -6,12 +6,6 @@
 			<reason>The ampersand refers to a shape, not a phrase that requires no-break spacing.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-4.xhtml">
-		<ignore>
-			<code>t-008</code>
-			<reason>The ampersand refers to a shape, not a phrase that requires no-break spacing.</reason>
-		</ignore>
-	</file>
 	<file path="chapter-5.xhtml">
 		<ignore>
 			<code>t-007</code>
