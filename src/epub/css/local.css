@@ -37,8 +37,3 @@ p[epub|type~="z3998:postscript"]{
 [epub|type~="bridgehead"] i{
 	font-style: normal;
 }
-
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
