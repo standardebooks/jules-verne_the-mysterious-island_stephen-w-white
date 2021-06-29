@@ -43,6 +43,9 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection" property="belongs-to-collection">Voyages Extraordinaires</meta>
+		<meta property="collection-type" refines="#collection">series</meta>
+		<meta property="group-position" refines="#collection">12</meta>
 		<dc:description id="description">Five Americans, balloon-wrecked on a deserted island, must find a way to survive while revealing the island’s strange mysteries.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Mysterious Island&lt;/i&gt; tells the tale of five Americans who, in an attempt to escape the Civil War, pilot a hot-air balloon and find themselves crashed on a deserted island somewhere in the Pacific. &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne&lt;/a&gt; had been greatly influenced by works like &lt;a href="https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe"&gt;&lt;i&gt;Robinson Crusoe&lt;/i&gt;&lt;/a&gt; and &lt;i&gt;The Swiss Family Robinson&lt;/i&gt;, and that influence shines brightly in this novel of engineering ingenuity and adventure. Verne imparts the escapees with such over-the-top cleverness and so many luckily-placed resources that modern readers might find the extent to which they tame the island comical. Despite that, the island contains genuine mysteries for the adventurers to solve.&lt;/p&gt;
