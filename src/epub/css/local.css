@@ -6,19 +6,19 @@
 }
 
 p[epub|type~="z3998:signature"]{
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
 
 p[epub|type~="z3998:postscript"]{
-	margin-top: 1em;
 	font-style: italic;
+	margin-top: 1em;
 	text-indent: 0;
 }
 
 .inscription{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 #chapter-24 blockquote p,
