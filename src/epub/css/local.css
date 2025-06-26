@@ -5,17 +5,6 @@
 	font-variant: small-caps;
 }
 
-p[epub|type~="z3998:signature"]{
-	margin-top: 1em;
-	text-align: right;
-}
-
-p[epub|type~="z3998:postscript"]{
-	font-style: italic;
-	margin-top: 1em;
-	text-indent: 0;
-}
-
 .inscription{
 	font-variant: small-caps;
 	text-align: center;
