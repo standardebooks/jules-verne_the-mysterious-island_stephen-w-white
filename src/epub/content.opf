@@ -19,13 +19,14 @@
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">alternativeText</meta>
+		<meta property="schema:accessibilityFeature">displayTransformability</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
-		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Mysterious Island</dc:title>
 		<meta property="file-as" refines="#title">Mysterious Island, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
@@ -46,7 +47,7 @@
 		<meta property="group-position" refines="#collection-1">12</meta>
 		<dc:description id="description">Five Americans, balloon-wrecked on a deserted island, must find a way to survive while revealing the island’s strange mysteries.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Mysterious Island&lt;/i&gt; tells the tale of five Americans who, in an attempt to escape the Civil War, pilot a hot-air balloon and find themselves crashed on a deserted island somewhere in the Pacific. &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne&lt;/a&gt; had been greatly influenced by works like &lt;a href="https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe"&gt;&lt;i&gt;Robinson Crusoe&lt;/i&gt;&lt;/a&gt; and &lt;a href=&quot;https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin&quot;&gt;&lt;i&gt;The Swiss Family Robinson&lt;/i&gt;&lt;/a&gt;, and that influence shines brightly in this novel of engineering ingenuity and adventure. Verne imparts the escapees with such over-the-top cleverness and so many luckily-placed resources that modern readers might find the extent to which they tame the island comical. Despite that, the island contains genuine mysteries for the adventurers to solve.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Mysterious Island&lt;/i&gt; tells the tale of five Americans who, in an attempt to escape the Civil War, pilot a hot-air balloon and find themselves crashed on a deserted island somewhere in the Pacific. &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne&lt;/a&gt; had been greatly influenced by works like &lt;a href="https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe"&gt;&lt;i&gt;Robinson Crusoe&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin"&gt;&lt;i&gt;The Swiss Family Robinson&lt;/i&gt;&lt;/a&gt;, and that influence shines brightly in this novel of engineering ingenuity and adventure. Verne imparts the escapees with such over-the-top cleverness and so many luckily-placed resources that modern readers might find the extent to which they tame the island comical. Despite that, the island contains genuine mysteries for the adventurers to solve.&lt;/p&gt;
 			&lt;p&gt;The standard translation of &lt;i&gt;The Mysterious Island&lt;/i&gt; was produced in 1875, and is credited to &lt;abbr&gt;W. H. G.&lt;/abbr&gt; Kingston. Despite its popularity, it’s widely criticized for abridging and Bowdlerizing important parts of the text. The translation presented here, produced by Stephen &lt;abbr&gt;W.&lt;/abbr&gt; White in 1876, is considered a much more accurate translation, despite it also abridging some portions.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
