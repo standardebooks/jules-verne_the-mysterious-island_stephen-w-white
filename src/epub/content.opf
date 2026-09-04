@@ -32,8 +32,8 @@
 		<meta property="file-as" refines="#title">Mysterious Island, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
-		<dc:subject id="subject-3">Castaways -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Islands of the Pacific -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Castaways--Fiction</dc:subject>
+		<dc:subject id="subject-4">Islands of the Pacific--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
